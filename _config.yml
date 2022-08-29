@@ -25,7 +25,7 @@ remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
 title: Kestrel
 email: florent.simonet.iut@gmail.com
 description: Kestrel documentation. Kestrel is a solid structure for Angular - Node based projects
-baseurl: "/kestrel" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kestrel-org.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Set a path/url to a logo that will be displayed instead of the title
