@@ -26,7 +26,7 @@ This page aims to give a quick install guide for testing the kestrel project.
 
 1- Install the kestrel-cli
 {% highlight bash %}
-$ npm install -g @kestrels/cli
+$ npm install --global @kestrels/cli
 {% endhighlight %}
 
 2- Create a new project
