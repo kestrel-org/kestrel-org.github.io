@@ -9,9 +9,14 @@ last_modified_date: 2022-08-29 10:47
 nav_order: 1
 ---
 
-# Home
+# Focus on the code not the structure
 
 Kestrel aims to give a solid structure to create a project based on Angular for the Frontend and ESM / Express / Sequelize for the backend.
+{: .fs-6 .fw-300 }
+
+[Get started now](/docs/getting_started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/kestrel-org){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
 
 Here is some features built in Kestrel:
 
@@ -40,3 +45,23 @@ Here is some features built in Kestrel:
 
 - Integration of Swagger for the backend
 - Integration of Compodoc for the frontend
+
+---
+
+## About the project
+
+Kestrel is &copy; 2021-{{ "now" | date: "%Y" }}
+
+### License
+
+Kestrel is distributed by an [MIT license](https://choosealicense.com/licenses/mit/).
+
+#### Thank you to all the contributors of Kestrel!
+
+<ul class="list-style-none">
+{% for contributor in site.github.contributors %}
+  <li class="d-inline-block mr-1">
+     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
+  </li>
+{% endfor %}
+</ul>
