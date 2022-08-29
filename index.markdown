@@ -5,7 +5,7 @@
 layout: default
 title: Home
 description: Kestrel is a open source project for web applications based on angular and nodejs / express. Join the project now !
-last_modified_date: 2022-08-29 10:47
+last_modified_date: 2022-08-29 11:47
 nav_order: 1
 ---
 
@@ -55,13 +55,3 @@ Kestrel is &copy; 2021-{{ "now" | date: "%Y" }}
 ### License
 
 Kestrel is distributed by an [MIT license](https://choosealicense.com/licenses/mit/).
-
-#### Thank you to all the contributors of Kestrel!
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>

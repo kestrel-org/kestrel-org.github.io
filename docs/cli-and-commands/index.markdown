@@ -2,9 +2,10 @@
 layout: default
 title: CLI and commands
 description: List of the different commands for Kestrel.
-nav_order: 3
 has_children: true
 permalink: /docs/cli-and-commands
+last_modified_date: 2022-08-29 12:12
+nav_order: 3
 ---
 
 # CLI and commands
