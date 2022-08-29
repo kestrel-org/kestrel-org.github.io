@@ -24,7 +24,7 @@ $ kc idb [options]
 | Option                | Description                                                                 |
 | :-------------------- | :-------------------------------------------------------------------------- |
 | `--env <env>`         | env to use when initialising the database (dev, test, prod). Default is dev |
-| `--ignore-list` `-il` | ignore all or several seeders during init                                   |
+| `--ignore-list` `--il` | ignore all or several seeders during init                                   |
 
 ## Example
 
