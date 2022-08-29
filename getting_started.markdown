@@ -4,7 +4,8 @@
 
 layout: default
 title: Getting started
-last_modified_date: 2022-08-26 16:26
+description: Quick install guide for testing the kestrel project. Test it now !
+last_modified_date: 2022-08-29 10:20
 nav_order: 2
 ---
 

@@ -258,6 +258,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-sitemap
   wdm (>= 0.1.0)
   webrick (~> 1.7)
 

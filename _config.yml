@@ -20,11 +20,13 @@
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
-# theme: just-the-docs
+plugins:
+  - jekyll-sitemap
 
 title: Kestrel
 email: florent.simonet.iut@gmail.com
-description: Kestrel documentation. Kestrel is a solid structure for Angular - Node based projects
+# We use description per page
+description: Kestrel is a open source project for web applications based on angular and nodejs / express. Join the project now !
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kestrel-org.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 

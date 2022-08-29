@@ -4,7 +4,8 @@
 
 layout: default
 title: Home
-last_modified_date: 2022-08-26 16:26
+description: Kestrel is a open source project for web applications based on angular and nodejs / express. Join the project now !
+last_modified_date: 2022-08-29 10:47
 nav_order: 1
 ---
 
