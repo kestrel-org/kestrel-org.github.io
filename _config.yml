@@ -21,8 +21,6 @@
 # Build settings
 remote_theme: just-the-docs/just-the-docs
 # theme: just-the-docs
-plugins:
-  - jekyll-feed
 
 title: Kestrel
 email: florent.simonet.iut@gmail.com
@@ -31,7 +29,7 @@ baseurl: "/kestrel" # the subpath of your site, e.g. /blog
 url: "https://kestrel-org.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/logo_kestrel.png"
+logo: "/assets/images/logo_kestrel.svg"
 
 # Enable or disable the site search
 # Supports true (default) or false
