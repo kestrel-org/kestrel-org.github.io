@@ -9,6 +9,10 @@ last_modified_date: 2022-08-29 11:47
 nav_order: 1
 ---
 
+# Skulljs: A remastered version of Kestrel is available on [https://skulljs.github.io/](https://skulljs.github.io/)
+
+---
+
 # Focus on the code not the structure
 
 Kestrel aims to give a solid structure to create a project based on Angular for the Frontend and ESM / Express / Sequelize for the backend.
